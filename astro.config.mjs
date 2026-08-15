@@ -8,17 +8,15 @@ import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import rehypeKatex from "rehype-katex";
 import remarkMath from "remark-math";
-import cloudflare from "@astrojs/cloudflare";
 
-// https://astro.build/config
+
 export default defineConfig({
-  site: 'https://PovedaCamyla.github.io',
-
+  site: 'https://camy0414.github.io',
+  base: '/PovedaCamyla.github.io',
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true
   },
-  adapter: cloudflare(),
   integrations: [react(), sitemap(), tailwind({
     config: {
       applyBaseStyles: false
@@ -32,10 +30,10 @@ export default defineConfig({
     }], remarkMath],
     rehypePlugins: [[rehypeKatex, {}]],
     shikiConfig: {
-      themes: { // https://shiki.style/themes
+      themes: {
         light: "light-plus",
         dark: "dark-plus",
-      } 
+      }
     },
     extendDefaultPlugins: true
   },
