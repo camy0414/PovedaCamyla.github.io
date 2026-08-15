@@ -3,46 +3,20 @@ import ThemeSwitcher from "@components/base/ThemeSwitcher.astro";
 import { IoSearch } from "react-icons/io5";
 
 const { pathname } = Astro.url;
+const base = import.meta.env.BASE_URL;
 
 const stickyHeader = true;
 
 const menu = [
-  {
-    name: "Home",
-    url: "/",
-  },
-  {
-    name: "About",
-    url: "/about",
-  },
-  {
-    name: "Docs",
-    url: "/docs",
-  },
-  {
-    name: "Blog",
-    url: "/blog",
-  },
-  {
-    name: "Recipes",
-    url: "/recipes",
-  },
-  {
-    name: "Poetry",
-    url: "/poetry",
-  },
-  {
-    name: "Index Cards",
-    url: "/index-cards",
-  },
-  {
-    name: "Authors",
-    url: "/authors",
-  },
-  {
-    name: "Portfolio",
-    url: "/portfolio",
-  },
+  { name: "Home", url: `${base}` },
+  { name: "About", url: `${base}about` },
+  { name: "Docs", url: `${base}docs` },
+  { name: "Blog", url: `${base}blog` },
+  { name: "Recipes", url: `${base}recipes` },
+  { name: "Poetry", url: `${base}poetry` },
+  { name: "Index Cards", url: `${base}index-cards` },
+  { name: "Authors", url: `${base}authors` },
+  { name: "Portfolio", url: `${base}portfolio` },
 ];
 ---
 
