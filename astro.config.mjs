@@ -13,7 +13,7 @@ import cloudflare from "@astrojs/cloudflare";
 // https://astro.build/config
 export default defineConfig({
   site: "https://PovedaCamyla.github.io",
-  base: "/",
+  base: '/PovedaCamyla.github.io/',
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true
