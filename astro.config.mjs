@@ -37,4 +37,9 @@ export default defineConfig({
     },
     extendDefaultPlugins: true
   },
+  vite: {
+    ssr: {
+      noExternal: ["react-lite-youtube-embed"]
+    }
+  }
 });
