@@ -1,8 +1,10 @@
 ---
-title: Hey, I'm Jane Doe!
+title: Hola, mi nombre es Camyla
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/profile/WhatsApp Image 2026-08-16 at 11.47.01 AM.jpeg"
 draft: false
----
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+---
+Me gusta pasar el tiempo con las personas importantes para mí. Considero que es de las mejores cosas de la vida ✨. Me gustan los animales 🦋 🐱. También, en mi día a día, no me puede faltar la música 🎶, aunque no escucho un género en específico; por el contrario, me gusta estar conociendo canciones nuevas.
+
+Mira mi video de presentación: --> https://youtube.com/shorts/jFwfYDAH24M
