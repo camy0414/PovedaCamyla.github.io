@@ -6,6 +6,7 @@ categories: [Philosophy]
 author: john-doe
 tags: [ancient, stoicism]
 hideToc: true
+draft: true
 ---
 
 Stoicism, an ancient Greek and Roman philosophy, teaches us how to live a meaningful life by mastering our inner world. Developed by thinkers like **Zeno of Citium**, **Epictetus**, **Seneca**, and **Marcus Aurelius**, it emphasizes reason, resilience, and virtue as the keys to flourishing.

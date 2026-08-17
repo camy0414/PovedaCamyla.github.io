@@ -5,7 +5,8 @@ image: "@assets/recipes/herb-chicken.jpg"
 author: jane-doe
 prepTime: 90
 servings: 4
-diet: Gluten-Free
+diet: Gluten-Free}
+draft: true
 
 ingredients:
   list:

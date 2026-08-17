@@ -6,6 +6,7 @@ author: jane-doe
 prepTime: 40
 servings: 4
 diet: Vegan
+draft: true
 
 ingredients:
   list:

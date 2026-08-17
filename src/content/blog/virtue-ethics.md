@@ -6,6 +6,7 @@ categories: [Philosophy]
 author: john-doe
 tags: [ethics, ancient]
 hideToc: true
+draft: true
 ---
 
 Aristotle, one of the most influential philosophers in history, developed a framework for ethics that is both practical and aspirational: **virtue ethics**. At its core, this philosophy asks not _"What should I do?"_ but _"Who should I become?"_

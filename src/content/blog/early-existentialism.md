@@ -6,6 +6,7 @@ categories: [Philosophy]
 author: john-doe
 tags: [existentialism]
 hideToc: true
+draft: true
 ---
 
 Existentialism, as a philosophical movement, focuses on individual freedom, meaning, and the human condition. Its roots lie in the 19th century, shaped by the provocative ideas of Søren Kierkegaard and Friedrich Nietzsche, who challenged traditional beliefs and laid the groundwork for modern existential thought.

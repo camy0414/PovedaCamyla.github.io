@@ -2,6 +2,7 @@
 title: The Quiet Sky's Embrace
 author: jane-doe
 date: 2024-05-15
+draft: true
 ---
 
 Beneath the quiet sky’s embrace,  

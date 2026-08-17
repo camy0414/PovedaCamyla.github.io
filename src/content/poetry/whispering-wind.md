@@ -1,6 +1,7 @@
 ---
 title: The Whispering Wind
 date: 2024-07-20
+draft: true
 ---
 
 Beneath a sky where twilight lingers,  

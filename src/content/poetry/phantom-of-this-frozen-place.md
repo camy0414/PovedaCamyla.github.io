@@ -5,7 +5,7 @@ image: "@assets/poetry/phantom-of-this-frozen-place.jpg"
 imageAlt: Snow Leopard on a snowy mountain
 author: jane-doe
 date: 2024-11-11
-draft: false
+draft: true
 ---
 
 High in the realms where silence reigns,  
