@@ -1,5 +1,5 @@
 ---
 title: PL/SQL Scripts
-description: The blog of Jane and John Doe
+description: Evidencias de programación en PL/SQL de Bases de Datos 2.
 ---
-<h4> Acá se encontrarán las evidencias.</h4>
+Aquí se encuentran las evidencias de los talleres de **PL/SQL**: procedimientos, funciones, cursores, excepciones, disparadores y paquetes.

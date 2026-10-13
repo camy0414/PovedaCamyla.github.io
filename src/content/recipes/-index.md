@@ -1,5 +1,5 @@
 ---
 title: No SQL
-description: A modest recipe book.
+description: Evidencias de MongoDB de Bases de Datos 2.
 ---
-<h3> Acá se encontrarán las evidencias.</h3>
+Aquí se encuentran las evidencias de **NoSQL** con MongoDB: modelo documental, CRUD, consultas complejas y agregaciones.

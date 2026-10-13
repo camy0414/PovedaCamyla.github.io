@@ -25,7 +25,7 @@ const { taxonomy, taxa, allTaxa }: Props = Astro.props;
               <li class="m-3 inline-block">
                 <Button
                   label=`${upperHumanize(taxon)} (${count})`
-                  link={`/blog/${taxonomy}/${taxon}`}
+                  link={`${import.meta.env.BASE_URL}/blog/${taxonomy}/${taxon}`}
                   hoverInvert
                 />
               </li>
