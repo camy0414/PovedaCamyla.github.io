@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Classes
 description: "A guide to the core classes of the realms and the diverse paths they offer for character growth."
 image: "@assets/docs/characters/classes/cover.jpg"

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Deities
 description: A guide to the deities of the arcane, their domains, and blessings bestowed upon followers.
 image: "@assets/docs/the-arcane/deities/cover.jpg"

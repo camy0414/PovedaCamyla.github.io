@@ -1,6 +1,6 @@
 ---
 title: SQL
-description: This is the docs
-draft: true
+description: Evidencias de SQL de Bases de Datos 2 en Oracle, el taller Banco Andino y prácticas propias sobre el caso Biblioteca.
 ---
-<h3> Acá se encontrarán las evidencias. </h3>
+
+Aquí se encuentran las evidencias de **SQL**: el taller *Banco Andino* (transacciones, índices y SQL avanzado) y mis prácticas propias sobre una biblioteca universitaria.
