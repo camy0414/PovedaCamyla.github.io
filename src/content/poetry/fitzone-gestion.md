@@ -21,5 +21,3 @@ Híbrida: **Scrum** para la planificación por sprints y **Kanban** para el fluj
 - Roles y matriz RACI
 - Requerimientos funcionales y no funcionales, priorizados y con trazabilidad
 - Matriz de riesgos (probabilidad e impacto) con plan de mitigación
-
-<!-- Agrega aquí capturas del tablero de Jira y de las páginas de Confluence -->
